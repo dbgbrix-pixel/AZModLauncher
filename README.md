@@ -1,0 +1,2 @@
+# AZModLauncher
+Launcher for AZMod
